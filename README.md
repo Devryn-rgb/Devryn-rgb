@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm a Software Developer 👋
 
-<!--
-**Devryn-rgb/Devryn-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical web applications and digital tools to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- HTML
+- CSS
+- React
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+
+**NDLEA Permit Ledger**
+
+A web development project focused on permit-related record management.
+
+🔗 [View the project on GitLab](https://gitlab.com/constanceiyere9/ndlea-permit-ledger)
+
+### 🌱 Currently
+- Improving my software development skills through hands-on projects.
+- Learning to build useful, user-friendly web applications.
+- Documenting my development journey.
+
+### 🤝 Let's Connect
+I'm open to connecting with developers and discussing practical web development projects.
